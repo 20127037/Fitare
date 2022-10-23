@@ -13,6 +13,11 @@
 - Nguyen Le Hoang Thong
 
 ## Project Description
-- Platform: Web 
 - Field: Health care & Fitness
-- Application description: A place helps people approach to great exercises in an organized way, build connection with other people to feel more inspired ...
+- Application description: **Fitare** - A place helps people approach to great exercises in an organized way, build connection with other people to feel more inspired ...
+- Platform: Web 
+- Building tools:
++ Front-end: HTML, CSS, JS (ES6 and above) and ReactJS
++ Back-end: node.js
++ Database: PostgreSQL
++ Web Hoisting: ?
